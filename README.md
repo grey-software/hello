@@ -13,7 +13,7 @@ We're revolutionizing open source software education connecting project maintain
 
 ### Online presence
 
-[Website](https://www.grey.software/)
-[GitHub](https://github.com/grey-software/)
-[Linkedin](https://www.linkedin.com/company/grey-software/)
-[Twitter](https://twitter.com/grey_software)
+- [Website](https://www.grey.software/)
+- [GitHub](https://github.com/grey-software/)
+- [Linkedin](https://www.linkedin.com/company/grey-software/)
+- [Twitter](https://twitter.com/grey_software)
