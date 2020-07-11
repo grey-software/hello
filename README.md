@@ -1,15 +1,15 @@
-# Hello
+# 👋 Hello 
 
 Grey Software promotes freedom and collaboration in software. We do this by:
 
 - Creating free apps and tools to improve the open-source software ecosystem
 - Helping students learn software engineering by collaborating with open source maintainers.
 
-## Vision
+## 👁️‍ Vision 
 
 _We envision an open source future where software maintainers mentor students and build free software together._
 
-## How we get there
+## 🧭 How we get there
 
 **To realize our vision, we need to address the issues facing maintainers and students.**
 
@@ -29,7 +29,7 @@ Because it plays an important role when they’re recruited into the modern tech
 
 2. We're seeking to run an experimental educational program with universities and open source maintainers. In this program, maintainers will be offered university teaching contracts to mentor students in a project course setting. Thus, students get real-world experience, and maintainers can make a sustainable living while developing open-source software. Check out [our proposed model](https://tiny.cc/gs-bm)
 
-### Online presence
+### 🌐 Online presence
 
 - [Website](https://www.grey.software/)
 - [GitHub](https://github.com/grey-software/)
