@@ -5,9 +5,13 @@ Grey Software promotes freedom and collaboration in software. We do this by:
 - Creating free apps and tools to improve the open-source software ecosystem
 - Helping students learn software engineering by collaborating with open source maintainers.
 
+## Vision
+
 _We envision an open source future where software maintainers mentor students and build free software together._
 
-**To get there, we need to address the issues facing maintainers and students.**
+## How we get there
+
+**To realize our vision, we need to address the issues facing maintainers and students.**
 
 ### Maintainers are burnt out
 
